@@ -1,4 +1,4 @@
-#[Диплом.ipynb](https://github.com/user-attachments/files/29374507/default.ipynb)
+#[1.ipynb](https://github.com/user-attachments/files/29374507/default.ipynb)
 [AB_test_results.xlsx](https://github.com/user-attachments/files/29374506/AB_test_results.xlsx)
 
 
