@@ -29,7 +29,6 @@ Python (Jupyter Notebook): pandas, numpy, matplotlib/seaborn, функции д�
 Excel: калькулятор с промежуточными и итоговыми расчетами, таблицы для презентации
 
 Результаты
-
 Скрипт анализа #[1.ipynb](https://github.com/user-attachments/files/29374507/default.ipynb)
 Итоговый калькулятор [AB_test_results.xlsx](https://github.com/user-attachments/files/29374506/AB_test_results.xlsx)
 Визуализации распределений и результатов
