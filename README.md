@@ -1,8 +1,8 @@
-#[1.ipynb](https://github.com/user-attachments/files/29374507/default.ipynb)
+[1.ipynb](https://github.com/user-attachments/files/29374507/default.ipynb)
 [AB_test_results.xlsx](https://github.com/user-attachments/files/29374506/AB_test_results.xlsx)
 
 
-#Анализ A/B-теста: влияние нового формата пуш-уведомлений
+# Анализ A/B-теста: влияние нового формата пуш-уведомлений
 
 Цель
 Оценить влияние нового формата пуш-уведомлений на конверсию и средний чек клиентов, выявить сегменты с максимальным эффектом и подготовить калькулятор для прогнозирования финансового результата внедрения.
